@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\libGDX-particle-Demo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="D:\android\libGDX-particle-Demo-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0_ec397d24e811835d77323b57d0a0b37b2d69a1c1.jar" />
+    </item>
+    <item
+        jar="E:\dasmaster\android_sdk\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="D:\android\libGDX-particle-Demo-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0_73ebf40f6a63e7da9e2a297792c6465c81946120.jar" />
+    </item>
+    <item
+        jar="D:\android\libGDX-particle-Demo-master\app\libs\gdx-backend-android.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd459f86946ba712fd473d09ef5c7f1ac8bff629">
+        <dex dex="D:\android\libGDX-particle-Demo-master\app\build\intermediates\pre-dexed\debug\gdx-backend-android_590aa2ace77448c3eb4c7c9c7f5006c5b328ea48.jar" />
+    </item>
+    <item
+        jar="D:\android\libGDX-particle-Demo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="D:\android\libGDX-particle-Demo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.0_1b3672a2f5addee733921276327957eb38796d65.jar" />
+    </item>
+    <item
+        jar="D:\android\libGDX-particle-Demo-master\app\build\intermediates\exploded-aar\com.badoo.mobile\android-weak-handler\1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b82ea4e1a3072739f03bcbfa979fa946604f4312">
+        <dex dex="D:\android\libGDX-particle-Demo-master\app\build\intermediates\pre-dexed\debug\com.badoo.mobile-android-weak-handler-1.0_42a161ccf63029f59227d501e7944b9d3f874c5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\leiyu\.gradle\caches\modules-2\files-2.1\com.facebook.rebound\rebound\0.3.6\d6e00af70407742e97f3f378f9b0382be8130ab7\rebound-0.3.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d6e00af70407742e97f3f378f9b0382be8130ab7">
+        <dex dex="D:\android\libGDX-particle-Demo-master\app\build\intermediates\pre-dexed\debug\rebound-0.3.6_3552511453b4f5630dc20d43d0f0cc0e60bb43ef.jar" />
+    </item>
+    <item
+        jar="D:\android\libGDX-particle-Demo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="D:\android\libGDX-particle-Demo-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.0_d18cf1fc2223db1212a2b1b7d458779a7580b654.jar" />
+    </item>
+    <item
+        jar="C:\Users\leiyu\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="D:\android\libGDX-particle-Demo-master\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0_3ed6086d082d40a84dc4a9207c0b6dabc33893ea.jar" />
+    </item>
+    <item
+        jar="D:\android\libGDX-particle-Demo-master\app\libs\gdx.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="10469e4371df07b778bcc0fa14205e4625b85d72">
+        <dex dex="D:\android\libGDX-particle-Demo-master\app\build\intermediates\pre-dexed\debug\gdx_ad0683fc6eb6f065abdb75c347018c085289d17d.jar" />
+    </item>
+
+</items>
